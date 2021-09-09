@@ -24,6 +24,7 @@ function App() {
           <Route path='/react-website' component={Home} />
           <Route path='/myResume' component={Resume} />
           <Route path='/armFrogger' component={Frogger} />
+          <Route path='/bamweb' component={Home} />
         </Switch>
       </Router>
     </div>

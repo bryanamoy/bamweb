@@ -16,7 +16,9 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
+          <Route path='/home' exact component={Home} />
+          <Route path='/bamweb' exact component={Home} />
+          <Route path='/bamweb/' component={Home} />
           <Route path='/products' component={Products} />
           <Route path='/aboutMe' component={AboutMe} />
           <Route path='/contact' component={Contact} />
@@ -24,7 +26,6 @@ function App() {
           <Route path='/react-website' component={Home} />
           <Route path='/myResume' component={Resume} />
           <Route path='/armFrogger' component={Frogger} />
-          <Route path='/bamweb/' component={Home} />
         </Switch>
       </Router>
     </div>

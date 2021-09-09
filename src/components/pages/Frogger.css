@@ -1,0 +1,30 @@
+.frogger-root {
+  background-color: black;
+}
+
+.frogger-container h1 {
+  margin-top: -100px;
+}
+
+.frogger-container {
+  color: white;
+}
+
+.frogger-des {
+  margin: 25px 0px 25px 0px;
+  width: 100%;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.frogger-text {
+  float: left;
+  width: 45%;
+  border-style: solid;
+  border-color: #1e90ff;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 0px 75px 25px 50px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+}

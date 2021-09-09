@@ -61,17 +61,22 @@
   text-align: left;
   width: 160px;
   box-sizing: border-box;
+  color: #fff;
 }
 
-.footer-links-items > h2 {
+.footer-links-items h2 {
   margin-bottom: 16px;
   color: #fff;
 }
 
-.footer-link-items > a {
-  color: #fff;
+.footer-link-items a {
+  color: #00bfff;
   text-decoration: none;
   margin-bottom: 8px;
+}
+
+.footer-links-items a:visited {
+  color: #00bfff;
 }
 
 .footer-links-items a:hover {
@@ -118,6 +123,11 @@ foot-input::placeholder {
   display: flex;
   align-self: center;
   margin-bottom: 16px;
+}
+
+.footer-logo a:hover {
+  color: #9acd32;
+  transition: 0.3s ease-out;
 }
 
 .website-rights {

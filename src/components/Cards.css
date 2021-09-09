@@ -8,6 +8,11 @@ h1 {
   margin-top: 75px;
 }
 
+.cards > h1 {
+  background-color: paleturquoise;
+  border-radius: 50%;
+}
+
 .cards_container {
   display: flex;
   flex-flow: column;

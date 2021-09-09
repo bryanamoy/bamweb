@@ -1,0 +1,9 @@
+.resume {
+  background-color: #ffebcd;
+}
+
+.resume-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

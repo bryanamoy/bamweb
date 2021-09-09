@@ -1,23 +1,23 @@
 import React from 'react';
 import CardItem from './CardItem.js';
 import './Cards.css';
-import Image1 from '../images/macao.PNG';
+import Image1 from '../images/@.jpg';
 import Image2 from '../images/tictactoerobot.png';
 import Image3 from '../images/myself.PNG';
 
 function Cards() {
     return (
         <div className='cards'>
-            <h1>Check out these Epic Destinations</h1>
+            <h1>Click On These Cards For More Info!</h1>
             <div className="cards_container">
                 <div className='cards_wrapper'>
                     <ul className='cards_items'>
                         <CardItem
                             // '/path/to/image.jpg' should work here also
                             src={Image1}
-                            text='My Beautiful trip to Macao'
-                            label='Travel'
-                            path='/products'
+                            text='If You Want To Reach Me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
+                            label='@me'
+                            path='/contact'
                             // path can be changed to different urls
                         />
                         <CardItem
@@ -25,8 +25,8 @@ function Cards() {
                             src={Image2}
                             text='Automated Tic-Tac-Toe Robot'
                             label='Programming'
-                            path='/products'
-                        />
+                            path='/tttRobot'
+                        ></CardItem>
                         {/* to make another row, have to wrap around another ul tag*/}
                     </ul>
                     <ul>

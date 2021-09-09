@@ -2,7 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
-import Myvid from '../videos/video-2.mp4';
+import Myvid from '../videos/video-1.mp4';
 
 function HeroSection() {
     return (
@@ -14,13 +14,15 @@ function HeroSection() {
                 <Button 
                     className='btns' 
                     buttonStyle='btn--outline'
-                    buttonSize='btn--large'>
+                    buttonSize='btn--large'
+                    path='/aboutMe'>
                     About Me
                 </Button>
                 <Button 
                     className='btns' 
                     buttonStyle='btn--primary' 
-                    buttonSize='btn--large'>
+                    buttonSize='btn--large'
+                    path='/contact'>
                     Contact
                     {/* Watch Me <i className='far fa-play-circle' /> */}
                 </Button>

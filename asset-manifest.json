@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bamweb/static/css/main.dff7b8d6.chunk.css",
-    "main.js": "/bamweb/static/js/main.e1f29fdc.chunk.js",
-    "main.js.map": "/bamweb/static/js/main.e1f29fdc.chunk.js.map",
+    "main.css": "/bamweb/static/css/main.c7418939.chunk.css",
+    "main.js": "/bamweb/static/js/main.bd3755c0.chunk.js",
+    "main.js.map": "/bamweb/static/js/main.bd3755c0.chunk.js.map",
     "runtime-main.js": "/bamweb/static/js/runtime-main.23b9e79e.js",
     "runtime-main.js.map": "/bamweb/static/js/runtime-main.23b9e79e.js.map",
     "static/js/2.b9010c60.chunk.js": "/bamweb/static/js/2.b9010c60.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c5e672f1.chunk.js": "/bamweb/static/js/3.c5e672f1.chunk.js",
     "static/js/3.c5e672f1.chunk.js.map": "/bamweb/static/js/3.c5e672f1.chunk.js.map",
     "index.html": "/bamweb/index.html",
-    "static/css/main.dff7b8d6.chunk.css.map": "/bamweb/static/css/main.dff7b8d6.chunk.css.map",
+    "static/css/main.c7418939.chunk.css.map": "/bamweb/static/css/main.c7418939.chunk.css.map",
     "static/js/2.b9010c60.chunk.js.LICENSE.txt": "/bamweb/static/js/2.b9010c60.chunk.js.LICENSE.txt",
     "static/media/@.674a3b88.jpg": "/bamweb/static/media/@.674a3b88.jpg",
     "static/media/aayclogo.f037f9b9.jpg": "/bamweb/static/media/aayclogo.f037f9b9.jpg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.23b9e79e.js",
     "static/js/2.b9010c60.chunk.js",
-    "static/css/main.dff7b8d6.chunk.css",
-    "static/js/main.e1f29fdc.chunk.js"
+    "static/css/main.c7418939.chunk.css",
+    "static/js/main.bd3755c0.chunk.js"
   ]
 }

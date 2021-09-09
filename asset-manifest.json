@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/bamweb/static/css/main.dff7b8d6.chunk.css",
+    "main.js": "/bamweb/static/js/main.1ee53e74.chunk.js",
+    "main.js.map": "/bamweb/static/js/main.1ee53e74.chunk.js.map",
+    "runtime-main.js": "/bamweb/static/js/runtime-main.23b9e79e.js",
+    "runtime-main.js.map": "/bamweb/static/js/runtime-main.23b9e79e.js.map",
+    "static/js/2.b9010c60.chunk.js": "/bamweb/static/js/2.b9010c60.chunk.js",
+    "static/js/2.b9010c60.chunk.js.map": "/bamweb/static/js/2.b9010c60.chunk.js.map",
+    "static/js/3.c5e672f1.chunk.js": "/bamweb/static/js/3.c5e672f1.chunk.js",
+    "static/js/3.c5e672f1.chunk.js.map": "/bamweb/static/js/3.c5e672f1.chunk.js.map",
+    "index.html": "/bamweb/index.html",
+    "static/css/main.dff7b8d6.chunk.css.map": "/bamweb/static/css/main.dff7b8d6.chunk.css.map",
+    "static/js/2.b9010c60.chunk.js.LICENSE.txt": "/bamweb/static/js/2.b9010c60.chunk.js.LICENSE.txt",
+    "static/media/@.674a3b88.jpg": "/bamweb/static/media/@.674a3b88.jpg",
+    "static/media/aayclogo.f037f9b9.jpg": "/bamweb/static/media/aayclogo.f037f9b9.jpg",
+    "static/media/App.css": "/bamweb/static/media/space.30483e46.jpg",
+    "static/media/edubase.f1fbc551.jpg": "/bamweb/static/media/edubase.f1fbc551.jpg",
+    "static/media/githublogo.2ea07f8a.png": "/bamweb/static/media/githublogo.2ea07f8a.png",
+    "static/media/HeroSection.css": "/bamweb/static/media/img-home.c034239e.jpg",
+    "static/media/macaoprofile.58824c57.jpg": "/bamweb/static/media/macaoprofile.58824c57.jpg",
+    "static/media/myself.decd0f6b.PNG": "/bamweb/static/media/myself.decd0f6b.PNG",
+    "static/media/resume.92e43550.PNG": "/bamweb/static/media/resume.92e43550.PNG",
+    "static/media/Robot.css": "/bamweb/static/media/robotback.b44db6af.jpg",
+    "static/media/Contact.css": "/bamweb/static/media/tech.db79341e.jpg",
+    "static/media/Products.css": "/bamweb/static/media/techy.fd8e9427.jpg",
+    "static/media/tictactoeboard.5222e798.png": "/bamweb/static/media/tictactoeboard.5222e798.png",
+    "static/media/tictactoerobot.1a8b3736.png": "/bamweb/static/media/tictactoerobot.1a8b3736.png",
+    "static/media/tttdetection.2d30ec36.png": "/bamweb/static/media/tttdetection.2d30ec36.png",
+    "static/media/video-1.59e75226.mp4": "/bamweb/static/media/video-1.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23b9e79e.js",
+    "static/js/2.b9010c60.chunk.js",
+    "static/css/main.dff7b8d6.chunk.css",
+    "static/js/main.1ee53e74.chunk.js"
+  ]
+}

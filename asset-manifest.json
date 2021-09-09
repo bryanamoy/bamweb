@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bamweb/static/css/main.dff7b8d6.chunk.css",
-    "main.js": "/bamweb/static/js/main.1ee53e74.chunk.js",
-    "main.js.map": "/bamweb/static/js/main.1ee53e74.chunk.js.map",
+    "main.js": "/bamweb/static/js/main.e1f29fdc.chunk.js",
+    "main.js.map": "/bamweb/static/js/main.e1f29fdc.chunk.js.map",
     "runtime-main.js": "/bamweb/static/js/runtime-main.23b9e79e.js",
     "runtime-main.js.map": "/bamweb/static/js/runtime-main.23b9e79e.js.map",
     "static/js/2.b9010c60.chunk.js": "/bamweb/static/js/2.b9010c60.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.23b9e79e.js",
     "static/js/2.b9010c60.chunk.js",
     "static/css/main.dff7b8d6.chunk.css",
-    "static/js/main.1ee53e74.chunk.js"
+    "static/js/main.e1f29fdc.chunk.js"
   ]
 }

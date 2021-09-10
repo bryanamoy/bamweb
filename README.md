@@ -1,3 +1,6 @@
+## Check out the website live: https://bryanamoy.github.io/bamweb
+-If you ever refresh page, github will throw Error 404, to connect back go back to https://bryanamoy.github.io/bamweb
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

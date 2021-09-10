@@ -32,3 +32,7 @@
 .contact-text a {
   color: white;
 }
+
+.contact-text a:hover {
+  transition: 0.3s ease-out;
+}

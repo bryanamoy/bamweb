@@ -75,6 +75,10 @@
   margin-bottom: 8px;
 }
 
+.footer-links-items a:link {
+  color: #00bfff;
+}
+
 .footer-links-items a:visited {
   color: #00bfff;
 }

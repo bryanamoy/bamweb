@@ -67,7 +67,7 @@ function Footer() {
                             BaM <i className='fab fab-typo3' />
                         </Link>
                     </div>
-                    <small className='website-rights'>Bryan Moy © 2020</small>
+                    <small className='website-rights'>Bryan Moy © 2021</small>
                     <div className='social-icons'>
                         <SocialIcon
                             url='https://www.linkedin.com/in/bryan-moy-80568b12a/'

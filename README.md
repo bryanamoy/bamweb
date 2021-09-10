@@ -1,4 +1,4 @@
-## Check out the website live: bryanamoy@github.io/bamweb
+## Check out the website live: https://bryanamoy.github.io/bamweb
 -If you ever refresh page, github will throw Error 404, to connect back go back to https://bryanamoy.github.io/bamweb
 
 # Getting Started with Create React App

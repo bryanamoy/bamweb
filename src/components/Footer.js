@@ -5,6 +5,12 @@ import { Link } from 'react-router-dom';
 import { SocialIcon } from 'react-social-icons';
 
 function Footer() {
+    // email draft button
+    const email = "bryanmoy@gmail.com";
+    const subject = "Hello Bryan Moy";
+    const body = "Feel free to edit and say hello from my personal website";
+    const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
     return(
         <div className='footer-container'>
             <section className='footer-subscription'>
@@ -56,7 +62,7 @@ function Footer() {
                     <div className='footer-links-items'>
                         <h2>Contact</h2>
                         {/*These can be different links ex: /Careers /Investors*/}
-                        <Link to='/contact'>My Contacts</Link>
+                        <Link to='/contact'>My Contact</Link>
                     </div>
                 </div>
             </div>
@@ -72,19 +78,21 @@ function Footer() {
                         <SocialIcon
                             url='https://www.linkedin.com/in/bryan-moy-80568b12a/'
                             network='linkedin'
+                            target='_blank'
+                            rel="noopener noreferrer"
+                        />
+                        <SocialIcon
+                            url='https://github.com/bryanamoy'
+                            network='github'
                             bgColor='#FF7F50'
                             target='_blank'
+                            rel="noopener noreferrer"
                         />
                         <SocialIcon
-                            url='https://www.instagram.com/brmoyan/?hl=en'
-                            network='instagram'
-                            bgColor='#6495ED'
+                            url={mailtoLink}
+                            network='mailto'
                             target='_blank'
-                        />
-                        <SocialIcon
-                            url='https://twitter.com/lang_boi'
-                            network='twitter'
-                            target='_blank'
+                            rel="noopener noreferrer"
                         />
                     </div>
                 </div>

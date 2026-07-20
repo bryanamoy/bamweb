@@ -27,7 +27,7 @@ function Products() {
                         <Link to='/armFrogger'>
                             <img src={Frog} className='froggy' />
                         </Link>
-                        <a href={'https://aaycny.org'} target='_blank'>
+                        <a href={'https://www.aaycny.org'} target='_blank'>
                             <img src={aayclogo} className='aayc' />
                         </a>
                     </ul>

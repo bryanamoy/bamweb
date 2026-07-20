@@ -5,6 +5,11 @@ import Footer from '../Footer.js';
 import './Contact.css'
 
 function Contact() {
+    const email = "bryanmoy@gmail.com";
+    const subject = "Hello Bryan Moy";
+    const body = "Feel free to edit and say hello from my personal website";
+    const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
     return (
         <div className='contact-root'>
             <div className='contact-container'>
@@ -13,7 +18,14 @@ function Contact() {
                     <div className='contact-text'>
                         <h2>Reach out to Me</h2>
                         <p>
-                            Email: bryanmoy@gmail.com
+                            Email:&nbsp;
+                            <a
+                                href={mailtoLink}
+                                alt='bryanmoy@gmail.com'
+                                target='_blank'
+                            >
+                                bryanmoy@gmail.com
+                            </a>
                             <br></br>
                             LinkedIn:&nbsp;
                             <a 

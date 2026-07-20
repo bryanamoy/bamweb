@@ -2,8 +2,21 @@
   background-color: #ffebcd;
 }
 
-.resume-img {
+/* .resume-img {
   display: flex;
   justify-content: center;
   align-items: center;
+} */
+
+.pdf-viewer {
+  min-height: 100%;
+  height: auto;
+}
+
+.resume-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  margin: 10px;
 }

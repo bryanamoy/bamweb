@@ -17,10 +17,10 @@ function AboutMe() {
                             After earning my degree in Computer Engineering from University at Buffalo,
                             I entered the Software Development world to explore my passion for computers and technology.
                             Given my choice in my degree, I have interests over the whole spectrum of computers; from
-                            Front-end to Back-end, Blockchain, Embedded Systems, and all the way down to computer hardware,
-                            I have a fascination of the direction technology is headed today. I am a Software Engineer,
+                            Front-end to Back-end, Blockchain, Embedded Systems, and all the way down to computer hardware.
+                            I have a fascination of the direction technology is headed today. I chose Software Engineering,
                             because it gratifies my ambition to create, engineer, and design technologies that may resolve 
-                            world or everyday issues, or products that are just outright cool. Because the computer industry
+                            world and everyday issues, or products that are just outright cool. Because the tech industry
                             is so broad, I feel there is something I can always learn about and dive into. Not only that, but 
                             it is a place where I can work well as a team member or as an individual; an industry where I belong.
                         </p>
@@ -36,6 +36,15 @@ function AboutMe() {
                             teamwork, and responsibility, I've gained so many lifelong connections and values that have guided
                             to a relatively stable and fulfilling life.
                         </p>
+                        <p>
+                            Currently I am a Senior Software Engineer, that serves as a technical lead, architect, and developer that
+                            scales core backend frameworks for high-throughput data processing. I love taking the role in driving
+                            technical direction and infrastructure improvements. I have experience developing and deploying APIs, microservices,
+                            distributed systems, and so much more!
+                        </p>
+                        <a href='../myResume' alt='Resume Page' target='_blank'>
+                            Check out my Resume here!
+                        </a>
                     </div>
                     <div className='aboutme-pic'>
                         <img src={ProfilePic} alt='profile' width='40%' height='40%'></img>

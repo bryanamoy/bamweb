@@ -112,7 +112,7 @@ foot-input::placeholder {
 
 .social-icons {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   width: 200px;
 }

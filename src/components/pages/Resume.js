@@ -1,5 +1,5 @@
 import React from 'react';
-import resume_file from '../../files/Bryan Moy Resume SWE.pdf';
+import resume_file from '../../files/Bryan Moy Sr. SWE Resume.pdf';
 import './Resume.css';
 import Footer from '../Footer.js';
 

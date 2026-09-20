@@ -3,8 +3,7 @@ import '../../App.css';
 import Footer from '../Footer.js';
 import './AboutMe.css';
 import ProfilePic from '../../images/macaoprofile.jpg';
-
-
+import { Link } from 'react-router-dom';
 
 function AboutMe() {
     return (
@@ -42,9 +41,7 @@ function AboutMe() {
                             technical direction and infrastructure improvements. I have experience developing and deploying APIs, microservices,
                             distributed systems, and so much more!
                         </p>
-                        <a href='../myResume' alt='Resume Page' target='_blank'>
-                            Check out my Resume here!
-                        </a>
+                        <Link to='/myResume'>Check out my Resume here!</Link>
                     </div>
                     <div className='aboutme-pic'>
                         <img src={ProfilePic} alt='profile' width='40%' height='40%'></img>
